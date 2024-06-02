@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdd85480-1091-431e-a89c-3e3e6eaeb966" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="lv2@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="da" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N5duut4S9yWzii3BtfdvOTmD2a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/test-excel/ess" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.globits.da.utils" />
+      <recent name="com.globits.da.domain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\baitapl3-2\da-api\src\main\java\com\globits\da\repository" />
+      <recent name="D:\baitapl3-2\da-api\src\main\java\com\globits\da\rest" />
+      <recent name="D:\baitapl3-2\da-api\src\main\java\com\globits\da\service\impl" />
+      <recent name="D:\baitapl3-2\da-api\src\main\java\com\globits\da\validator" />
+      <recent name="D:\baitapl3-2\da-api\src\main\java\com\globits\da\exception" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="da-app" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.globits.DAApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.29675424" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="lv2@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="lv2@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4d8a28d3" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\dat\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdd85480-1091-431e-a89c-3e3e6eaeb966" name="Default Changelist" comment="" />
+      <created>1678958103341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678958103341</updated>
+      <workItem from="1678958109696" duration="3561000" />
+      <workItem from="1678963928675" duration="399000" />
+      <workItem from="1679249328871" duration="1115000" />
+      <workItem from="1679276669372" duration="10823000" />
+      <workItem from="1679905694882" duration="692000" />
+      <workItem from="1679984880510" duration="3286000" />
+      <workItem from="1680837005517" duration="63000" />
+      <workItem from="1681196247172" duration="222000" />
+      <workItem from="1681270456297" duration="326000" />
+      <workItem from="1681283906043" duration="32000" />
+      <workItem from="1681350513716" duration="104000" />
+      <workItem from="1681890856918" duration="60000" />
+      <workItem from="1682092024241" duration="951000" />
+      <workItem from="1682095876441" duration="941000" />
+      <workItem from="1682097568837" duration="660000" />
+      <workItem from="1682098379065" duration="1428000" />
+      <workItem from="1682100569343" duration="288000" />
+      <workItem from="1682115420602" duration="163000" />
+      <workItem from="1682372083741" duration="367000" />
+      <workItem from="1682379397055" duration="5154000" />
+      <workItem from="1682393010642" duration="2903000" />
+      <workItem from="1682403652373" duration="55000" />
+      <workItem from="1682464204071" duration="286000" />
+      <workItem from="1682464527376" duration="4440000" />
+      <workItem from="1682523436470" duration="248000" />
+      <workItem from="1682524037867" duration="24867000" />
+      <workItem from="1682569191022" duration="10949000" />
+      <workItem from="1682610393763" duration="28278000" />
+      <workItem from="1682696594489" duration="22399000" />
+      <workItem from="1682723573886" duration="3589000" />
+      <workItem from="1682728751314" duration="35000" />
+      <workItem from="1682728903558" duration="258000" />
+      <workItem from="1682730194199" duration="581000" />
+      <workItem from="1682782684805" duration="302000" />
+      <workItem from="1683146049047" duration="2646000" />
+      <workItem from="1683214476852" duration="1249000" />
+      <workItem from="1683386265798" duration="7479000" />
+      <workItem from="1683404209028" duration="12842000" />
+      <workItem from="1683467860255" duration="8373000" />
+      <workItem from="1683491205866" duration="10365000" />
+      <workItem from="1683516522757" duration="13098000" />
+      <workItem from="1683560662557" duration="8428000" />
+      <workItem from="1683569347192" duration="19309000" />
+      <workItem from="1683649826328" duration="4256000" />
+      <workItem from="1683735780722" duration="1265000" />
+      <workItem from="1683766886493" duration="430000" />
+      <workItem from="1683842040466" duration="315000" />
+      <workItem from="1683845024948" duration="215000" />
+      <workItem from="1683849572435" duration="1537000" />
+      <workItem from="1684339897914" duration="1132000" />
+      <workItem from="1684307136279" duration="84000" />
+      <workItem from="1686038477365" duration="334000" />
+      <workItem from="1686044001382" duration="141000" />
+      <workItem from="1686055795006" duration="223000" />
+      <workItem from="1688358019624" duration="9000" />
+      <workItem from="1691129930869" duration="84000" />
+      <workItem from="1691131623185" duration="13000" />
+      <workItem from="1694155319257" duration="54000" />
+      <workItem from="1705081329437" duration="3287000" />
+      <workItem from="1705114405319" duration="640000" />
+      <workItem from="1705119423483" duration="2322000" />
+      <workItem from="1705131154980" duration="93000" />
+      <workItem from="1705290345096" duration="805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
